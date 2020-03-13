@@ -1,0 +1,4 @@
+config-dir: config/
+machine-name: eric-test-workshop
+path-to-kepler-instance: core
+requirements: requirements.txt

@@ -1,0 +1,5 @@
+version: 3
+sentry_dsn: 'https://01016c344f3942bcbc4d55d4a1d10f4c@sentry.io/1390120'
+sources:
+  - uri: https://eric-test-workshop-kepler.machine.datarobot.com/workshop/tasks
+    schedule: "*/5 * * * *"
