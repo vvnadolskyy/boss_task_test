@@ -1,13 +1,13 @@
 
 tasks = [
   {
-    "external_id": "workshop-task-with-unique-number-after-this-string-301856",
+    "external_id": "workshop-task-with-unique-number-after-this-string-301856100500",
     "description": "Example Task for a BOSS Workshop",
     "name": "BOSS Workshop Summary Task",
     "category": "Workshop Category 1",
     "assignee": {
       "type": "user",
-      "email": "eric.mckibbin@datarobot.com"
+      "email": "vasyl.nadolskyi@datarobot.com"
     },
     "execution": {
       "type": "boss",
