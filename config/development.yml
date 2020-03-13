@@ -1,6 +1,6 @@
 environment:
-  LOG_SERVICE_NAME: 'eric-test-workshop-staging'
-  ES_LOG_INDEX_NAME: 'eric-test-workshop-staging-logs'
+  LOG_SERVICE_NAME: 'vnadolskyi-test-workshop-staging'
+  ES_LOG_INDEX_NAME: 'vnadolskyi-test-workshop-staging-logs'
   SENTRY_DSN: 'https://40534f8c33584af28b1c7cf9b66873e0@sentry.io/1873253'
   LOG_LEVELNAME: 'INFO'
   LOG_FORMATTER: 'logstash_formatter.LogstashFormatterV1'
