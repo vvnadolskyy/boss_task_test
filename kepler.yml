@@ -1,4 +1,4 @@
 config-dir: config/
-machine-name: eric-test-workshop
+machine-name: vnadolskyi-test-workshop
 path-to-kepler-instance: core
 requirements: requirements.txt
